@@ -1,0 +1,4 @@
+.intro__list_ul {
+  list-style: none;
+  display: flex;
+}
