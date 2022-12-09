@@ -1,10 +1,4 @@
 .header__languare {
   display: flex;
   justify-content: space-between;
-
-  transition: .3s ease-in;
-}
-
-.header__languare:hover {
-  opacity: 0.8;
 }

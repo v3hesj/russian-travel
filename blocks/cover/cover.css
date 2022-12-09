@@ -6,10 +6,7 @@
 
   margin: 92px auto 0;
 
-  background-image: url(../../images/cover-trains.jpg);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-position: center;
+  background: url(../../images/cover-trains.jpg) no-repeat center/cover;
 }
 
 @media screen and (max-width: 780px) {

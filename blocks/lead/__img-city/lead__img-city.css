@@ -2,3 +2,15 @@
   margin: 64px 0 0;
   width: 100%;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__img-city {
+    margin: 56px 0 0;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .lead__img-city {
+    margin: 40px 0 0;
+  }
+}
